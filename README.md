@@ -1,6 +1,6 @@
 ## Policy
 
-This repository contains the policies, terms and conditions, and other important information regarding the services provided by Syntax Media.
+The repository contains the policies, terms and conditions, and other important information regarding the services provided by Syntax Media.
 
 #### Do's
 
