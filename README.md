@@ -1,6 +1,6 @@
 ## Policy
 
-The repository contains the policies, terms and conditions, and other important information regarding the services provided by rebase media.
+The repository contains the policies, terms and conditions, and other important information regarding the services provided by **rebase media**.
 
 #### Do's
 
