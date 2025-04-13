@@ -15,4 +15,4 @@ The repository contains the policies, terms and conditions, and other important 
 - No controversial graphics or images will be included in the content.
 - No promotion of subpar products or projects will be done.
 
-You can also check them out on the website [here](https://pradumnasaraf.dev/services/bundle/).
+You can also check them out on the website [here](https://rebasemedia.com/bundle).
